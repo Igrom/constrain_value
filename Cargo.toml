@@ -1,0 +1,8 @@
+[package]
+name = "set_in_range"
+version = "1.0.0"
+authors = ["igrom"]
+edition = "2018"
+
+[dependencies]
+clap = "*"
