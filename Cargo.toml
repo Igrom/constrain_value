@@ -1,5 +1,5 @@
 [package]
-name = "set_in_range"
+name = "constrain_value"
 version = "1.0.0"
 authors = ["igrom"]
 edition = "2018"
